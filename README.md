@@ -1,4 +1,4 @@
-<h1 align="center bg-black text-[red] ">Hi 👋, I'm Allali Ryad</h1>
+<h1 align="center">Hi 👋, I'm Allali Ryad</h1>
 <h3 align="center">From client-side to server-side, I make your website look good while stealing your data. Just kidding... Or am I?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryaaad&label=Profile%20views&color=0e75b6&style=flat" alt="ryaaad" /> </p>
