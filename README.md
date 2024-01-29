@@ -4,19 +4,14 @@
 <br>
 
 
+##  **About me**
+🚀 Software Engineer | 💻 Full Stack Web Developer | 📱 Mobile Developer On the making
+- 🔍 Actively participating in Hackathones during spare time
+- 💻 I specialize in full-stack development and software engineering
+- 🐍 Proficient in scripting with Python and Bash
+- 📱 Learning mobile development
+- 🌐 Check out my personal website: [allaliRyad.ml]([https://www.0xabdulkhalid.ml](https://allaliryad.vercel.app/))
 
-	
- **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -32,6 +27,7 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    
 
 <br>   
     
@@ -143,6 +139,5 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
