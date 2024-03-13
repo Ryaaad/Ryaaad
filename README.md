@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allali Ryad</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 📱 Mobile Developer On the making</h3>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer </h3>
 
 - 👨‍💻 my personal website [https://allaliryad.vercel.app/](https://allaliryad.vercel.app/)
 
