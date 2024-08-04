@@ -12,6 +12,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryaaad&show_icons=true&locale=en&layout=compact" alt="ryaaad" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryaaad)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryaaad&show_icons=true&locale=en" alt="ryaaad" /></p>
 
