@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer </h3>
 
 
-- <!-- - 👨‍💻 my personal website [https://allaliryad.vercel.app/](https://allaliryad.vercel.app/) -->
+ <!-- - 👨‍💻 my personal website [https://allaliryad.vercel.app/](https://allaliryad.vercel.app/) -->
 
 
 
